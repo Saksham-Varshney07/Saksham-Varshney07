@@ -9,7 +9,7 @@
 # 💫 About Me:
 🔭 I’m currently working on building full-stack projects while exploring backend development and Web3 <br><br>
 🌱 I’m currently learning Node.js, Express, databases, and smart contracts <br><br>
-⚡ Fun fact: I open Stack Overflow more times a day than my fridge 😅
+⚡ Fun fact: If coding was a game, I’d still be stuck on the tutorial level 🎮
 
 ---
 
